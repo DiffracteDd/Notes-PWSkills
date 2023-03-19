@@ -1,0 +1,45 @@
+2023-02-20 15:57:18,456 this is my info log
+2023-02-20 15:57:19,225 this is my debug log
+2023-02-20 15:57:19,946 this is my debug log
+2023-02-20 16:01:04,840 this is my info log
+2023-02-20 16:07:49,242 No such comm target registered: jupyter.widget.control
+2023-02-20 16:07:49,244 No such comm: ec0f8d41-87cc-4114-b2e4-1b989b46f8c2
+2023-02-20 16:07:49,244 Current comms: []
+2023-02-20 16:13:45,113 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging 1
+2023-02-20 16:13:45,114 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging 2
+2023-02-20 16:13:45,114 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging 3
+2023-02-20 16:13:45,114 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging 4
+2023-02-20 16:13:45,114 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging [4, 5, 6]
+2023-02-20 16:13:45,114 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging sudh
+2023-02-20 16:13:45,114 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:13:45,114 this is the value of i am logging kumar
+2023-02-20 16:15:30,212 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging 1
+2023-02-20 16:15:30,213 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging 2
+2023-02-20 16:15:30,213 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging 3
+2023-02-20 16:15:30,213 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging 4
+2023-02-20 16:15:30,213 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging [4, 5, 6]
+2023-02-20 16:15:30,213 logging my j 4 and i[4, 5, 6]
+2023-02-20 16:15:30,213 logging my j 5 and i[4, 5, 6]
+2023-02-20 16:15:30,213 logging my j 6 and i[4, 5, 6]
+2023-02-20 16:15:30,213 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging sudh
+2023-02-20 16:15:30,213 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+2023-02-20 16:15:30,213 this is the value of i am logging kumar
+2023-02-20 16:17:35,820 this is my final result with all int[1, 2, 3, 4, 4, 5, 6] and all str['sudh', 'kumar']
+2023-02-20 16:59:34,900 No such comm target registered: jupyter.widget.control
+2023-02-20 16:59:34,902 No such comm: 69f8a230-0056-4f3a-935e-978195e85482
+2023-02-20 16:59:34,902 Current comms: []
+2023-02-20 17:24:38,120 No such comm target registered: jupyter.widget.control
+2023-02-20 17:24:38,122 No such comm: dda468ed-f010-47f6-ac2d-e53200f51f3d
+2023-02-20 17:24:38,122 Current comms: []
